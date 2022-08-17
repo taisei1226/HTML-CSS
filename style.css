@@ -16,8 +16,8 @@ header{
 }
 .headerLogo-image{
 	height:20px;
-	padding-top:20px;
-	padding-left:38px;
+	padding-top:10px;
+	padding-left:28px;
 }
 .headerContainer{
 	display: flex;
@@ -262,6 +262,7 @@ h1{
 	height: 100%;
 }
 .headerNav_group{
+margin-top:10px;
 cursor: pointer;
 display: block;
 position: relative;
